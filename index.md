@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <p align="center">
 	<img width="200" height="200" src="./images/header_image.png"/> 
 </p>
@@ -30,6 +34,9 @@ Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am cur
 </p>
 
 <h1 align="center">Work Experience</h1>
+
+
+---
 
 <p align="center">
 	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
@@ -91,7 +98,17 @@ Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am cur
 	<img src="/images/jonsson_connect/jonsson_connect_5.png" alt="Screenshot" width="220" height="417">
 </p>
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 <h1 align="center">Personal Projects</h1>
+
+---
 
 <p align="center">
 	<img src="/images/nomni/nomni_app_icon.png" alt="App Icon" width="100" height="100">
