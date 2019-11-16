@@ -1,46 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Daniel-Reiling/daniel-reiling.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Daniel-Reiling/daniel-reiling.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
-
-
-
 <p align="center">
 	<img width="200" height="200" src="./images/header_image.png"/> 
 </p>
@@ -63,6 +20,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 	<a href="./resume.pdf">
 		<img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=green">	
 	</a>
+	<a href="mailto:daniel.reiling@gmail.com">
+		<img src="https://img.shields.io/static/v1?label=Email&message=Daniel&color=F76831">	
+	</a>
+</p>
+
+<p align="center">
+Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am currently working toward my BS in Computer Science specializing in mobile development. I have been working as a mobile developer for the last 3 years, whether it be full time or contracting. I specialize in native mobile apps, but I do have experience building in cross platform environments such as React Native. Something interesting about me is that I also have a passion for developing augmented and virtual reality applications. Check out some of my work below and feel free to reach out to me at any time!	
 </p>
 
 <h1 align="center">Work Experience</h1>
@@ -78,6 +42,21 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 	<a href="https://play.google.com/store/apps/details?id=edu.utdallas.utd&hl=en_US">
 		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
 	</a>
+</p>
+<p align="center">
+	Stay connected to UT Dallas anytime, anywhere. From campus way finding, to information about the most current events and activities, to Comet sports and beyond, UTD Mobile keeps you informed.
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit</code>
+	<code>Cocoapods</code>
+</p>
+<p align="center">
+	<code>Android Studio</code>
+	<code>Java/Kotlin</code>
+	<code>Architecture Components</code>
+	<code>Jetpack Library</code>
 </p>
 <p align="center">
 	<img src="/images/utd_mobile/utd_mobile_1.png" alt="Screenshot" width="220" height="417">
@@ -119,6 +98,17 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 </p>
 <h3 align="center">Nomni</h3>
 <p align="center">
+	Nomni is an app for finding local restaurants you never knew about. With the Tinder like card-swipping interface, you can see restaurants around you one at a time and find a place to eat. Some of the features Nomni offers are filtering, favoriting, reviewing, and directions. 
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit</code>
+	<code>Cocoapods</code>
+	<code>Firebase</code>
+	<code>Yelp Fusion API</code>
+</p>
+<p align="center">
 	<img src="/images/nomni/nomni_1.png" alt="Screenshot" width="220" height="421">
 	<img src="/images/nomni/nomni_2.png" alt="Screenshot" width="220" height="421">
 	<img src="/images/nomni/nomni_3.png" alt="Screenshot" width="220" height="421">
@@ -131,6 +121,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 </p>
 <h3 align="center">Champion</h3>
 <p align="center">
+	A social app for social good. Champion allows the social media generation to easily give back to the community by connecting with organizations fighting to help those in need.
+</p>
+<p align="center">
+	<code>React Native</code>
+	<code>JavaScript</code>
+	<code>Expo</code>
+	<code>Node/npm</code>
+</p>
+<p align="center">
 	<img src="/images/champion/champion_1.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/champion/champion_2.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/champion/champion_3.png" alt="Screenshot" width="220" height="417">
@@ -138,4 +137,28 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 	<img src="/images/champion/champion_5.png" alt="Screenshot" width="220" height="417">
 </p>
 
-
+<p align="center">
+	<img src="/images/worms/worms_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">Worms</h3>
+<p align="center">
+	An app where fellow bookworms can read and chat together while supporting educational organizations.
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit</code>
+	<code>Cocoapods</code>
+	<code>Okta SAML/SSO</code>
+	<code>TWillio</code>
+	<code>MongoDB</code>
+	<code>MessageKit</code>
+</p>
+<p align="center">
+	<img src="/images/worms/worms_1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/worms/worms_2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/worms/worms_3.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/worms/worms_4.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/worms/worms_5.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/worms/worms_6.png" alt="Screenshot" width="220" height="417">
+</p>
