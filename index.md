@@ -30,7 +30,7 @@ layout: default
 </p>
 
 <p align="center">
-Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am currently working toward my BS in Computer Science specializing in mobile development. I have been working as a mobile developer for the last 3 years, whether it be full time or contracting. I specialize in native mobile apps, but I do have experience building in cross platform environments such as React Native. Something interesting about me is that I also have a passion for developing augmented and virtual reality applications. Check out some of my work below and feel free to reach out to me at any time!	
+Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in native iOS development, although my passion is in mobile as a whole, so I do cross the bridge to Android quite often. I have experience working on enterprise apps supporting large customer bases as well as supporting apps from 0 to App Store. Some of my other passions are design, AR/VR, and simply building great user expereinces. If you would like to know more, please reach out to me, I always love to talk shop.
 </p>
 
 <h1 align="center">Work Experience</h1>
