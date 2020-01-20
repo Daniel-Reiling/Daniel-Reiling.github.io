@@ -39,6 +39,44 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 ---
 
 <p align="center">
+	<img src="/images/thinkers/thinkers_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">Thinkers Notebook</h3>
+<p align="center">
+	<a href="https://apps.apple.com/us/app/thinkers-notebook-app/id1477991808">
+		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+	</a>
+	<a href="https://play.google.com/store/apps/details?id=com.arkentech.thinkersnotebook&hl=en_US">
+		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
+	</a>
+</p>
+<p align="center">
+	Transform the ideas in your THINKERS Notebook from simple hand-written notes on a page into high-resolution digital images that you can access, edit, and share to anyone in the world.
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit</code>
+	<code>Cocoapods</code>
+</p>
+<p align="center">
+	<code>Android Studio</code>
+	<code>Java/Kotlin</code>
+	<code>Architecture Components</code>
+	<code>Jetpack Library</code>
+</p>
+<p align="center">
+	<img src="/images/thinkers/thinkers_1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_3.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_4.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_5.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_6.png" alt="Screenshot" width="220" height="417">
+</p>
+
+
+
+<p align="center">
 	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
 </p>
 <h3 align="center">UTD Mobile</h3>
@@ -97,58 +135,6 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 	<img src="/images/jonsson_connect/jonsson_connect_4.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/jonsson_connect/jonsson_connect_5.png" alt="Screenshot" width="220" height="417">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-	<img src="/images/thinkers/thinkers_app_icon.png" alt="App Icon" width="100" height="100">
-</p>
-<h3 align="center">Thinkers Notebook</h3>
-<p align="center">
-	<a href="https://apps.apple.com/us/app/thinkers-notebook-app/id1477991808">
-		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
-	</a>
-	<a href="https://play.google.com/store/apps/details?id=com.arkentech.thinkersnotebook&hl=en_US">
-		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
-	</a>
-</p>
-<p align="center">
-	Transform the ideas in your THINKERS Notebook from simple hand-written notes on a page into high-resolution digital images that you can access, edit, and share to anyone in the world.
-</p>
-<p align="center">
-	<code>XCode</code>
-	<code>Swift</code>
-	<code>UIKit</code>
-	<code>Cocoapods</code>
-</p>
-<p align="center">
-	<code>Android Studio</code>
-	<code>Java/Kotlin</code>
-	<code>Architecture Components</code>
-	<code>Jetpack Library</code>
-</p>
-<p align="center">
-	<img src="/images/thinkers/thinkers_1.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_2.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_3.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_4.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_5.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/thinkers/thinkers_6.png" alt="Screenshot" width="220" height="417">
-</p>
-
-
-
-
-
-
 
 
 &nbsp;
