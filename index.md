@@ -6,7 +6,7 @@ layout: default
 	<img width="200" height="200" src="./images/header_image.png"/> 
 </p>
 <h1 align="center">Daniel Reiling</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">iOS Engineer</h3>
 
 <p align="center"> 
 	<a href="https://github.com/daniel-reiling">
