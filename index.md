@@ -54,10 +54,13 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 	Transform the ideas in your THINKERS Notebook from simple hand-written notes on a page into high-resolution digital images that you can access, edit, and share to anyone in the world.
 </p>
 <p align="center">
-	<code>XCode</code>
-	<code>Swift</code>
-	<code>UIKit</code>
+	<code>XCode 11</code>
+	<code>Swift 5</code>
+	<code>UIKit/AutoLayout</code>
 	<code>Cocoapods</code>
+	<code>Firebase</code>
+	<code>Crashlytics</code>
+	<code>Fastlane</code>
 </p>
 <p align="center">
 	<code>Android Studio</code>
@@ -72,6 +75,9 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 	<img src="/images/thinkers/thinkers_4.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_5.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_6.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_7.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_8.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/thinkers/thinkers_9.png" alt="Screenshot" width="220" height="417">
 </p>
 
 
