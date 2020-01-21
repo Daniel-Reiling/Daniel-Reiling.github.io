@@ -120,6 +120,16 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 </p>
 <h3 align="center">UTD Watch</h3>
 <p align="center">
+	Stay connected to UT Dallas anytime, anywhere. From campus way finding, to information about the most current events and activities, to Comet sports and beyond, UTD Mobile keeps you informed. The new UTD Watch app includes dining services, parking availability, important contact numbers, and a building directory. 
+</p>
+<p align="center">
+	<code>XCode 11</code>
+	<code>Swift 5</code>
+	<code>WatchKit</code>
+	<code>SwiftUI</code>
+	<code>Independent WatchApp</code>
+</p>
+<p align="center">
 	<a href="https://apps.apple.com/us/app/utd-mobile/id1299726915">
 		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
 	</a>
@@ -135,12 +145,23 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 </p>
 <h3 align="center">Jonsson Connect</h3>
 <p align="center">
+	The Jonsson Connect app is a home for all UT Dallas alumni, and particularly targeted to those who graduated from the Erik Jonsson School of Engineering and Computer Science. The LinkedIn login provides quick access, and you’ll find information on news, events, and more within the app. Stay in touch with us and let us celebrate and support your journey as UT Dallas alumni!
+</p>
+<p align="center">
+	<code>React Native</code>
+	<code>JavaScript</code>
+	<code>Expo</code>
+	<code>Firebase</code>
+</p>
+<p align="center">
 	<img src="/images/jonsson_connect/jonsson_connect_1.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/jonsson_connect/jonsson_connect_2.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/jonsson_connect/jonsson_connect_3.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/jonsson_connect/jonsson_connect_4.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/jonsson_connect/jonsson_connect_5.png" alt="Screenshot" width="220" height="417">
 </p>
+
+
 
 
 &nbsp;
