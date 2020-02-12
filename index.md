@@ -212,10 +212,12 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 	A social app for social good. Champion allows the social media generation to easily give back to the community by connecting with organizations fighting to help those in need.
 </p>
 <p align="center">
-	<code>React Native</code>
-	<code>JavaScript</code>
-	<code>Expo</code>
-	<code>Node/npm</code>
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit/AutoLayout</code>
+	<code>Cocoapods</code>
+	<code>Crashlytics</code>
+	<code>Firebase</code>
 </p>
 <p align="center">
 	<img src="/images/champion/champion_1.png" alt="Screenshot" width="220" height="417">
