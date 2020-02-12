@@ -33,7 +33,7 @@ layout: default
 Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in native iOS development, although my passion is in mobile as a whole, so I do cross the bridge to Android quite often. I have experience working on enterprise apps supporting large customer bases as well as supporting apps from 0 to App Store. Some of my other passions are design, AR/VR, and simply building great user expereinces. If you would like to know more, please reach out to me, I always love to talk shop.
 </p>
 
-<h1 align="center">Work Experience</h1>
+<h1 align="center">Recent Work</h1>
 
 
 ---
@@ -61,6 +61,7 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 	<code>Firebase</code>
 	<code>Crashlytics</code>
 	<code>Fastlane</code>
+	<code>CircleCI</code>
 </p>
 <p align="center">
 	<code>Android Studio</code>
@@ -100,8 +101,11 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 <p align="center">
 	<code>XCode</code>
 	<code>Swift</code>
-	<code>UIKit</code>
+	<code>UIKit/AutoLayout</code>
 	<code>Cocoapods</code>
+	<code>Crashlytics</code>
+	<code>Fabric</code>
+	<code>Fastlane</code>
 </p>
 <p align="center">
 	<code>Android Studio</code>
@@ -186,8 +190,9 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 <p align="center">
 	<code>XCode</code>
 	<code>Swift</code>
-	<code>UIKit</code>
+	<code>UIKit/AutoLayout</code>
 	<code>Cocoapods</code>
+	<code>Crashlytics</code>
 	<code>Firebase</code>
 	<code>Yelp Fusion API</code>
 </p>
@@ -230,7 +235,9 @@ Hey there, I’m Daniel, an Mobile Developer from Dallas, TX. I specialize in na
 <p align="center">
 	<code>XCode</code>
 	<code>Swift</code>
-	<code>UIKit</code>
+	<code>UIKit/AutoLayout</code>
+	<code>Firebase</code>
+	<code>Crashlytics</code>
 	<code>Cocoapods</code>
 	<code>Okta SAML/SSO</code>
 	<code>TWillio</code>
