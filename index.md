@@ -181,53 +181,6 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 ---
 
 <p align="center">
-	<img src="/images/nomni/nomni_app_icon.png" alt="App Icon" width="100" height="100">
-</p>
-<h3 align="center">Nomni</h3>
-<p align="center">
-	Nomni is an app for finding local restaurants you never knew about. With the Tinder like card-swipping interface, you can see restaurants around you one at a time and find a place to eat. Some of the features Nomni offers are filtering, favoriting, reviewing, and directions. 
-</p>
-<p align="center">
-	<code>XCode</code>
-	<code>Swift</code>
-	<code>UIKit/AutoLayout</code>
-	<code>Cocoapods</code>
-	<code>Crashlytics</code>
-	<code>Firebase</code>
-	<code>Yelp Fusion API</code>
-</p>
-<p align="center">
-	<img src="/images/nomni/nomni_1.png" alt="Screenshot" width="220" height="421">
-	<img src="/images/nomni/nomni_2.png" alt="Screenshot" width="220" height="421">
-	<img src="/images/nomni/nomni_3.png" alt="Screenshot" width="220" height="421">
-	<img src="/images/nomni/nomni_4.png" alt="Screenshot" width="220" height="421">
-	<img src="/images/nomni/nomni_5.png" alt="Screenshot" width="220" height="421">
-</p>
-
-<p align="center">
-	<img src="/images/champion/champion_app_icon.png" alt="App Icon" width="100" height="100">
-</p>
-<h3 align="center">Champion</h3>
-<p align="center">
-	A social app for social good. Champion allows the social media generation to easily give back to the community by connecting with organizations fighting to help those in need.
-</p>
-<p align="center">
-	<code>XCode</code>
-	<code>Swift</code>
-	<code>UIKit/AutoLayout</code>
-	<code>Cocoapods</code>
-	<code>Crashlytics</code>
-	<code>Firebase</code>
-</p>
-<p align="center">
-	<img src="/images/champion/champion_1.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/champion/champion_2.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/champion/champion_3.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/champion/champion_4.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/champion/champion_5.png" alt="Screenshot" width="220" height="417">
-</p>
-
-<p align="center">
 	<img src="/images/worms/worms_app_icon.png" alt="App Icon" width="100" height="100">
 </p>
 <h3 align="center">Worms</h3>
@@ -253,4 +206,52 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 	<img src="/images/worms/worms_4.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/worms/worms_5.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/worms/worms_6.png" alt="Screenshot" width="220" height="417">
+</p>
+
+
+<p align="center">
+	<img src="/images/champion/champion_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">Champion</h3>
+<p align="center">
+	A social app for social good. Champion allows the social media generation to easily give back to the community by connecting with organizations fighting to help those in need.
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit/AutoLayout</code>
+	<code>Cocoapods</code>
+	<code>Crashlytics</code>
+	<code>Firebase</code>
+</p>
+<p align="center">
+	<img src="/images/champion/champion_1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/champion/champion_2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/champion/champion_3.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/champion/champion_4.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/champion/champion_5.png" alt="Screenshot" width="220" height="417">
+</p>
+
+<p align="center">
+	<img src="/images/nomni/nomni_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">Nomni</h3>
+<p align="center">
+	Nomni is an app for finding local restaurants you never knew about. With the Tinder like card-swipping interface, you can see restaurants around you one at a time and find a place to eat. Some of the features Nomni offers are filtering, favoriting, reviewing, and directions. 
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit/AutoLayout</code>
+	<code>Cocoapods</code>
+	<code>Crashlytics</code>
+	<code>Firebase</code>
+	<code>Yelp Fusion API</code>
+</p>
+<p align="center">
+	<img src="/images/nomni/nomni_1.png" alt="Screenshot" width="220" height="421">
+	<img src="/images/nomni/nomni_2.png" alt="Screenshot" width="220" height="421">
+	<img src="/images/nomni/nomni_3.png" alt="Screenshot" width="220" height="421">
+	<img src="/images/nomni/nomni_4.png" alt="Screenshot" width="220" height="421">
+	<img src="/images/nomni/nomni_5.png" alt="Screenshot" width="220" height="421">
 </p>
