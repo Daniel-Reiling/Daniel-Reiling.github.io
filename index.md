@@ -176,7 +176,7 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 &nbsp;
 
 
-<h1 align="center">Personal Projects</h1>
+<h1 align="center">Past Work</h1>
 
 ---
 
