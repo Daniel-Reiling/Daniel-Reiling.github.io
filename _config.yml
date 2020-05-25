@@ -1,6 +1,7 @@
 title: Daniel Reiling
 description: iOS Engineer
 logo: images/header_image.png
+image: /images/header_image.png
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
