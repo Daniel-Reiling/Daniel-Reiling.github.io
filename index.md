@@ -46,27 +46,25 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 	<a href="https://apps.apple.com/us/app/thinkers-notebook-app/id1477991808">
 		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
 	</a>
-	<a href="https://play.google.com/store/apps/details?id=com.arkentech.thinkersnotebook&hl=en_US">
-		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
-	</a>
 </p>
 <p align="center">
-	Transform the ideas in your THINKERS Notebook from simple hand-written notes on a page into high-resolution digital images that you can access, edit, and share to anyone in the world.
+	Record your ideas in any format, retrieve them easily with smart search and personalized folders, and share them with anyone, anywhere, on any device.
 </p>
 <p align="center">
-	<code>XCode 11/12</code>
+	<code>XCode 12</code>
 	<code>Swift 5</code>
-	<code>UIKit/AutoLayout</code>
+	<code>UIKit</code>
+	<code>SwiftUI</code>
 	<code>Combine</code>
 	<code>Dark Mode</code>
 	<code>DiffableDataSource</code>
-	<code>UICompositionalCollectionViewLayout</code>
+	<code>CompositionalCollectionViewLayout</code>
 	<code>AVFoundation</code>
 	<code>Vision</code>
 	<code>CoreML</code>
 	<code>Cocoapods</code>
 	<code>Fastlane</code>
-	<code>CircleCI</code>
+	<code>Bitrise</code>
 </p>
 <p align="center">
 	<img src="/images/thinkers/thinkers_1.png" alt="Screenshot" width="220" height="417">
@@ -79,8 +77,6 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 	<img src="/images/thinkers/thinkers_8.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/thinkers/thinkers_9.png" alt="Screenshot" width="220" height="417">
 </p>
-
-
 
 <p align="center">
 	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
@@ -153,7 +149,10 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 <p align="center">
 	<code>React Native</code>
 	<code>JavaScript</code>
+	<code>Swift</code>
+	<code>Java</code>
 	<code>Expo</code>
+	<code>Node.js</code>
 	<code>Firebase</code>
 </p>
 <p align="center">
