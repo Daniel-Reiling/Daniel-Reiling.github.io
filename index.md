@@ -54,8 +54,7 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 <p align="center">
 	<code>SwiftUI</code>
 	<code>Combine</code>
-	<code>Xcode 12</code>
-	<code>Swift 5</code>
+	<code>MVVM</code>
 	<code>GraphQL</code>
 	<code>Apollo iOS SDK</code>
 	<code>SwiftGen</code>
