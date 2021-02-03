@@ -6,7 +6,7 @@ layout: default
 	<img width="200" height="200" src="./images/header_image.png"/> 
 </p>
 <h1 align="center">Daniel Reiling</h1>
-<h3 align="center">iOS Engineer</h3>
+<h3 align="center">Senior iOS Engineer</h3>
 
 <p align="center"> 
 	<a href="https://github.com/daniel-reiling">
@@ -37,6 +37,42 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 
 
 ---
+
+
+<p align="center">
+	<img src="/images/youcantrade/youcantrade_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">YouCanTrade</h3>
+<p align="center">
+	<a href="https://apps.apple.com/us/app/youcantrade-community/id1515292764">
+		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+	</a>
+</p>
+<p align="center">
+	Connect with other traders and our coaches, post updates and comments on the markets and get involved in our community. The supportive YouCanTrade community is here help you find the confidence and skills you need to be the trader you want. The YouCanTrade mobile app can help you connect with other traders to discuss, learn and grow.
+</p>
+<p align="center">
+	<code>SwiftUI</code>
+	<code>Combine</code>
+	<code>Xcode 12</code>
+	<code>Swift 5</code>
+	<code>GraphQL</code>
+	<code>Apollo iOS SDK</code>
+	<code>SwiftGen</code>
+	<code>SwiftLint</code>
+	<code>Fastlane</code>
+	<code>GitLab CI/CD</code>
+	<code>Dark Mode</code>
+</p>
+<p align="center">
+	<img src="/images/youcantrade/youcantrade_1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/youcantrade/youcantrade_2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/youcantrade/youcantrade_3.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/youcantrade/youcantrade_4.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/youcantrade/youcantrade_5.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/youcantrade/youcantrade_6.png" alt="Screenshot" width="220" height="417">
+</p>
+
 
 <p align="center">
 	<img src="/images/thinkers/thinkers_app_icon.png" alt="App Icon" width="100" height="100">
