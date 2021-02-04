@@ -126,12 +126,12 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 	Contracted to develop iOS 14 widgets for the app Weather Fit. The development included calling remote APIs from the widget extension, sharing UserDefaults between app targets, and localizing text for several languages.
 </p>
 <p align="center">
-	<img src="/images/weatherfit/weatherfit_1.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/weatherfit/weatherfit_2.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/weatherfit/weatherfit_3.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/weatherfit/weatherfit_4.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/weatherfit/weatherfit_5.png" alt="Screenshot" width="220" height="417">
-	<img src="/images/weatherfit/weatherfit_6.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/weatherfit/weatherfit_1.png" alt="Screenshot" width="220" height="220">
+	<img src="/images/weatherfit/weatherfit_2.png" alt="Screenshot" width="220" height="220">
+	<img src="/images/weatherfit/weatherfit_3.png" alt="Screenshot" width="220" height="220">
+	<img src="/images/weatherfit/weatherfit_4.png" alt="Screenshot" width="220" height="220">
+	<img src="/images/weatherfit/weatherfit_5.png" alt="Screenshot" width="220" height="220">
+	<img src="/images/weatherfit/weatherfit_6.png" alt="Screenshot" width="220" height="220">
 </p>
 
 <p align="center">
