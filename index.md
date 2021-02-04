@@ -114,6 +114,27 @@ Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I specialize in nativ
 </p>
 
 <p align="center">
+	<img src="/images/weatherfit/weatherfit_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">Weather Fit (iOS 14 Widgets)</h3>
+<p align="center">
+	<a href="https://apps.apple.com/us/app/weather-fit-accurate-forecast/id1194408342">
+		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+	</a>
+</p>
+<p align="center">
+	Contracted to develop iOS 14 widgets for the app Weather Fit. The development included calling remote APIs from the widget extension, sharing UserDefaults between app targets, and localizing text for several languages.
+</p>
+<p align="center">
+	<img src="/images/weatherfit/weatherfit_1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/weatherfit/weatherfit_2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/weatherfit/weatherfit_3.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/weatherfit/weatherfit_4.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/weatherfit/weatherfit_5.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/weatherfit/weatherfit_6.png" alt="Screenshot" width="220" height="417">
+</p>
+
+<p align="center">
 	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
 </p>
 <h3 align="center">UTD Mobile</h3>
