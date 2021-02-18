@@ -30,7 +30,7 @@ layout: default
 </p>
 
 <p align="center">
-Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I have specilized in iOS development since early 2014 giving me a solid foundation of both OBJ-C and Swift. I love working with teams in building rock-solid remarkable mobile apps. My focus has changed over the years to no only developing apps that are user focused and provide a great UX, but also are well-engineered, scalable, and testable. If you would like to know more, please reach out, I always love to talk shop.
+Hey there, I’m Daniel, an iOS Developer from Dallas, TX. I have specilized in iOS development since early 2014 giving me a solid foundation of both OBJ-C and Swift. My primary love of iOS is working with teams in building rock-solid remarkable mobile apps. My focus has changed over the years to not only developing apps that are user-focused and provide a great experience, but also are well-engineered, scalable, and testable. If you would like to know more, please reach out, I always love to talk shop.
 </p>
 
 <h1 align="center">Recent Work</h1>
